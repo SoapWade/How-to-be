@@ -1,0 +1,28 @@
+/* style.css by Sophia Wade */
+body {
+    background-image: url("https://tinyurl.com/l2zjjdj");
+}
+body {
+	text-align: center;
+	padding: 50px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+div.border{
+	border: 12px grey;
+    border-radius: 20px;
+	background-color: lightgrey;
+	color: black;
+	margin: 20px 0 20px 0;
+	padding: 20px; 
+	border-style: double;
+	border-width: 15px;
+}
+ul {
+text-align: left;	
+}
+ol{
+	text-align: left;
+}
